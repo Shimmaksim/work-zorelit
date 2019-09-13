@@ -1,0 +1,163 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.head {
+  display: block;
+  margin: 0 auto;
+  width: 300px;
+  border-left: 2px solid rgba(241, 241, 241, 0.34);
+  border-right: 2px solid rgba(241, 241, 241, 0.34);
+  padding-top: 30px;
+}
+
+.head__link {
+  text-decoration: none;
+}
+
+.btn__head {
+  display: block;
+  margin: 0 auto;
+  width: 178px;
+  height: 42px;
+  border-radius: 30px;
+  background-color: transparent;
+  cursor: pointer;
+  border: 1px solid rgb(241, 241, 241);
+  outline: none;
+  color: rgba(40, 34, 94, 255);
+  margin-bottom: 45px;
+  font-size: 18px;
+  text-align: center;
+}
+
+.head__title {
+  font-size: 24px;
+  color: rgba(31, 31, 31, 255);
+  text-align: center;
+  margin-bottom: 34px;
+}
+
+.head__subtitle {
+  margin: 0 auto;
+  width: 265px;
+  font-size: 12px;
+  color: rgba(31, 31, 31, 255);
+  text-align: center;
+  margin-bottom: 42px;
+}
+
+.solution__object {
+  display: block;
+}
+
+.object__photo {
+  display: block;
+  width: 273px;
+  height: 197px;
+  margin: 0 auto 30px;
+}
+
+.object__title {
+  margin: 0 auto;
+  font-size: 20px;
+  color: rgba(31, 31, 31, 255);
+  text-align: center;
+  margin-bottom: 45px;
+}
+
+.object__subtitle {
+  font-size: 16px;
+  color: rgba(31, 31, 31, 255);
+  text-align: center;
+  width: 247px;
+  margin: 0 auto;
+  padding-bottom: 27px;
+}
+
+.srtelka {
+  display: block;
+  margin: 0 auto;
+  width: 11px;
+  height: 28px;
+  margin-bottom: 21px;
+}
+
+.section-1 {
+  width: 320px;
+  height: 290px;
+  margin: 0 auto;
+
+  background: linear-gradient(
+    0deg,
+    rgb(25, 37, 107) 0%,
+    rgb(26, 37, 107) 32%,
+    rgb(218, 87, 22) 73%,
+    rgb(218, 84, 19) 100%
+  );
+}
+
+.section-1_title {
+  display: block;
+  margin: 0 auto;
+  font-size: 16px;
+  color: rgba(255, 255, 255, 255);
+  text-align: center;
+  padding-top: 75px;
+  margin-bottom: 35px;
+  width: 249px;
+}
+
+.section-1_subtitle {
+  display: block;
+  font-size: 12px;
+  color: rgba(255, 255, 255, 255);
+  text-align: center;
+}
+.section-2 {
+  border-left: 2px solid rgba(241, 241, 241, 0.34);
+  border-right: 2px solid rgba(241, 241, 241, 0.34);
+  display: block;
+  margin: 0 auto;
+  width: 300px;
+}
+
+.Technology {
+  display: block;
+}
+
+.Technology__photo {
+  display: block;
+  width: 268px;
+  height: 242px;
+  margin: 0 auto 30px;
+}
+
+.Technology__title {
+  margin: 0 auto;
+  font-size: 20px;
+  color: rgba(31, 31, 31, 255);
+  text-align: left;
+  width: 248px;
+  margin-bottom: 45px;
+}
+
+.Technology__subtitle {
+  font-size: 14px;
+  color: rgba(31, 31, 31, 255);
+  text-align: left;
+  width: 248px;
+  margin: 0 auto;
+  padding-bottom: 27px;
+}
+
+.section-2_logo {
+  padding-top: 50px;
+  font-size: 24px;
+  color: rgba(31, 31, 31, 255);
+  text-align: center;
+  padding-bottom: 40px;
+  margin: 0;
+}
